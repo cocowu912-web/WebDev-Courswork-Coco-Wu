@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kai - Artist</title>
+    </head>
+    <body>
+        <h1>Hi, I'm Kai!</h1>
+       
+        <img src="Final project/miku.jpg" alt="my drawing photo"style="width:400px; height:600px;">
+        <p>I live in <strong>Arizona</strong>.</p>
+        <p>Three words that describe me are <em>passionate</em>, <em>diverse</em>, and <em>artistic</em>.</p>
+        <p>I love to draw. It's a <em>passion</em> of mine. I like to go <strong>hiking</strong> and sit in nature with my <em>sketchbook</em> and <em>draw</em>.</p>
+        <p>I've <mark>won awards</mark> at school for my art.</p>
+        <p>I would love to go to <strong>art school</strong> after high school and really explore what I can <em>do artistically</em>.</p>
+        <p>With my art I love to show the <em>beauty of nature</em>.</p>
+        <p>I am passionate about the <strong>environment</strong> and <strong>preserving our planet and its resources</strong>.</p>
+        <p>Last year I helped organize a rally to protest <mark>global warming</mark> and the effects rising <em>surface temperatures</em> are having on our land.</p>
+        <p>We really need to pay more <strong>attention</strong> to how our actions are affecting the <strong>planet</strong>.</p>
+        <p>I love the colors <strong>blue</strong> and <strong>green</strong>. They make me think of the <em>earth and sky</em>.</p>
+    </body>
+</html>

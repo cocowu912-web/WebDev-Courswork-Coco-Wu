@@ -1,0 +1,158 @@
+body {
+    background-color: #e3f2fd;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #01579b;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #0288d1;
+}
+
+h1 {
+    color: #01579b;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #0277bd;
+    font-size: 24px;
+}
+
+h3 {
+    color: #0288d1;
+    font-size: 18px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.content {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    border: 2px solid #4fc3f7;
+}
+
+footer {
+    background-color: #01579b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #4fc3f7;
+    border-radius: 25px;
+}
+
+mark {
+    background-color: #81d4fa;
+}
+
+strong {
+    color: #01579b;
+}
+
+em {
+    color: #0288d1;
+}
+
+small {
+    font-size: 12px;
+}
+
+ul, ol {
+    font-size: 14px;
+}
+
+dl {
+    font-size: 14px;
+}
+
+dt {
+    font-weight: bold;
+    color: #0277bd;
+}
+
+dd {
+    color: #333;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: green;
+    background-color: #e3f2fd;
+    text-decoration: none;
+}
+
+a:active {
+    color: yellow;
+    background-color: purple;
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.highlight {
+    color: blue;
+    font-weight: bold;
+}
+
+button {
+    background-color: #0288d1;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #01579b;
+}
+
+@media (max-width: 600px) {
+    nav ul li {
+        float: none;
+    }
+    
+    nav ul li a {
+        text-align: left;
+    }
+}
